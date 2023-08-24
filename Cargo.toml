@@ -3,6 +3,7 @@ name = "macro_script"
 description = "tiny script for macro rules"
 authors = ["Fancyflame<fancyflame@163.com>"]
 repository = "https://github.com/Fancyflame/macro_script"
+license-file = "LICENSE"
 version = "0.1.0"
 edition = "2021"
 
